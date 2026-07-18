@@ -185,3 +185,40 @@ Throughout my academic journey, I've developed full stack applications involving
 - Frontend Development
 - Mobile Development
 - Software Architecture
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=CristhianGuevara-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=CristhianGuevara-code&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CristhianGuevara-code&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/CristhianGuevara-code">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+guevaracristhian115@gmail.com
+guevaracristhian7.69@gmail.com
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ *"Building software, learning continuously, and enjoying the journey."*
+
+</div>
