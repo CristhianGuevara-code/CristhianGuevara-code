@@ -9,7 +9,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3BA4F2&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Building+Full+Stack+Applications;ASP.NET+Core+Backend+Developer;React+%26+React+Native+Developer;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3BA4F2&center=true&vCenter=true&width=750&lines=System+Engineering+Student;Building+Full+Stack+Applications;ASP.NET+Core+Backend+Developer;React+%26+React+Native+Developer;Always+Learning+Something+New" />
 
 </div>
 
@@ -69,7 +69,7 @@ I enjoy learning new technologies, improving my problem-solving skills, and coll
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bruno-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
@@ -211,7 +211,6 @@ Throughout my academic journey, I've developed full stack applications involving
 </a>
 
 guevaracristhian115@gmail.com
-guevaracristhian7.69@gmail.com
 
 </p>
 
