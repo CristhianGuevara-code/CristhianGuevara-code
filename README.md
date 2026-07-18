@@ -2,7 +2,7 @@
 
 # Hi there! 👋 I'm Cristhian Guevara
 
-### 💻 Software Engineering Student
+### 💻 System Engineering Student
 ### 🚀 Building Full Stack Applications
 
 **.NET • ASP.NET Core • React • React Native • PostgreSQL**
@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Cristhian Guevara**, a Software Engineering student from **Honduras 🇭🇳** passionate about building software that solves real-world problems.
+I'm **Cristhian Guevara**, a System Engineering student from **Honduras 🇭🇳** passionate about building software that solves real-world problems.
 
 I enjoy developing complete applications, from designing relational databases and building REST APIs with **ASP.NET Core**, to creating modern web interfaces with **React** and cross-platform mobile applications using **React Native**.
 
