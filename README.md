@@ -113,3 +113,75 @@ I enjoy turning ideas into complete software solutions and working on projects t
 ## 🎯 Current Goal
 
 My goal is to continue growing as a Full Stack Developer by contributing to meaningful projects, improving my technical skills, and gaining experience building software that creates a positive impact.
+
+
+ ---
+
+# 🚀 Featured Projects
+
+### 🚍 Monitor UNAH
+
+A university transportation monitoring platform designed to help students track campus buses in real time.
+
+**Highlights**
+
+- 🔐 Authentication & Role Management
+- 📍 Real-time bus monitoring
+- 📱 Cross-platform mobile application
+- 🌐 Responsive web application
+- 🗄 PostgreSQL database
+- 👥 Collaborative software development
+
+**Tech Stack**
+
+`ASP.NET Core` • `React` • `React Native` • `TypeScript` • `PostgreSQL`
+
+---
+
+### 📚 EduRural
+
+An educational platform that allows teachers to upload learning materials while students and parents can easily access educational resources.
+
+**Highlights**
+
+- 🔐 Secure authentication
+- 📄 PDF management
+- 👨‍🏫 Teacher & Student roles
+- ☁ Cloud file management
+- 📚 Educational resource organization
+
+**Tech Stack**
+
+`ASP.NET Core` • `SQL Server` • `Entity Framework Core`
+
+---
+
+### 📱 Mobile Applications
+
+Cross-platform mobile applications focused on usability, performance, and clean user interfaces.
+
+**Highlights**
+
+- 📱 React Native
+- ⚡ Expo
+- 🔄 API Integration
+- 🎨 Modern UI
+
+**Tech Stack**
+
+`React Native` • `Expo` • `TypeScript`
+
+---
+
+### 🌐 Full Stack Development
+
+Throughout my academic journey, I've developed full stack applications involving backend services, modern web interfaces, relational databases, authentication systems, and RESTful APIs.
+
+**Areas of Experience**
+
+- REST APIs
+- Authentication & Authorization
+- Database Design
+- Frontend Development
+- Mobile Development
+- Software Architecture
